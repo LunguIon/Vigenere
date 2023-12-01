@@ -10,20 +10,22 @@ This Python script is designed to crack Vigenere ciphers. It employs a statistic
    cd Vigenere
 
 
-##Install Dependencies:
+## Install Dependencies:
 pip install -r requirements.txt
-##Run the Script:
+
+## Run the Script:
 python3 crack.py
 
-##Enter Vigenere Cipher Text:
+## Enter Vigenere Cipher Text:
 You will be prompted to enter your Vigenere cipher text. Paste or type the text and press Enter.
 
-##View Results:
+## View Results:
 The script will analyze the text, determine the key length, crack the Vigenere cipher, and display the decrypted text along with the encryption key.
 
-##Sample Text for Testing
+## Sample Text for Testing
 KHHLVUSIESWBVYVUKDRIFOZHKOVGFKHBRNGCEHDHUTZIKAOFWIJOIEVUDEDHUSROKHDVFVHIWOXLYOXMVSHHKWLHVDWIXOPILNWCEGVNRIUMJHDFCWHQYAWMRYWBVYQYMEUMKOSJVDDARIQNYEBSRWQCEGOCKTOYEOLMVOQNYEEYRSWUKTKYKRROSLHFFVHXRNGBRLIIWHDLUTKYPWROEDOCWTWIJKDNVWDMWRRGNEBILRVQVTUCGPLHXHLMWAQHPIQNFFUUDEJUMEDBVRRQVSWCESKILLGYISPSSIUNYWKICINYRRHBVAQXVVHLPOXLFFICEIVBDIOFDUFBKRBHFTZBVNIIISDEVSHWKOUFFVHIEHRGVTKYKOWUCLBWRTFBZNJNIEDNKHHQFROXDYVNVRLILSXHHUHMKIRHVDDGFUQNVDOCMEVQRSDHUYHMYIVUJHHHRNFSFFBYJSHHJESUIEQNWRRGSEBYSOREZMHHJTDLIIQARNGMGLLNZNWIFFKCDWRHURROJFRLIUQNYRLFCIQAKHHCISKY
-#License
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
